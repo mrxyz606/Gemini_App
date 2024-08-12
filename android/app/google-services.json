@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904434929719",
+    "project_id": "geminiapp-583ec",
+    "storage_bucket": "geminiapp-583ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904434929719:android:4ffd370868c705b2d82fb2",
+        "android_client_info": {
+          "package_name": "com.example.gemini_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjWNFVPWWbQzZnPqqAWSZmgQo81sYj4lU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
