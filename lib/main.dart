@@ -15,7 +15,7 @@ import 'package:gemini_app/Shared/Helpers/shared_preferences.dart';
 
 import 'Screens/Authentication/login_screen.dart';
 import 'Screens/Home/home_screen.dart';
-var apiKey = "AIzaSyDKZE2QyuFNQY2-Lqsxi_EZUy3n_LxWdFU";
+var apiKey = "";
 
 void main() async {
   Gemini.init(apiKey: apiKey);
